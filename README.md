@@ -1,5 +1,18 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Clone the Repository
+git clone https://github.com/alihashir479/Nextjs-ecommerce.git
+cd Nextjs-ecommerce
+
+## Install Dependencies
+npm install
+or
+yarn install
+
+## Set Up Environment Variables
+.env.local
+NEXT_PUBLIC_API_BASE_URL=https://fakestoreapi.com
+
 ## Getting Started
 
 First, run the development server:
